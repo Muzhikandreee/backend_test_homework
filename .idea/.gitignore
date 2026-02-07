@@ -1,4 +1,4 @@
 # Файлы, игнорируемые по умолчанию
 /shelf/
 /workspace.xml
-.gigaide/
+/backend_test_homework/.gigaide
